@@ -1,6 +1,6 @@
-# agente-planejador-para-projetos-musicais
+# agente-ai-planejador-para-projetos-musicais
 
-Agente Planejador para Projetos Musicais
+Agente AI Planejador para Projetos Musicais
 
 Por Murilo Muraah
 
@@ -8,12 +8,12 @@ Por Murilo Muraah
 A partir de informações inseridas pelo usuário, um grupo de agentes de inteligência artifical, utilizando o modelo Google Gemini 2.0 Flash, criam um planejamento estratégico e/ou de projeto, planejamento de marketing para o Instagram, TikTok e YouTube, planejamento financeiro, cronograma unificado e listas de verificação.
 
 
-O Agente Planejador pode te ajudar a fazer um planejamento para qualquer tipo de projeto musical, como gravações, lançamentos, turnês, etc.
+O Agente AI Planejador pode te ajudar a fazer um planejamento para qualquer tipo de projeto musical, como gravações, lançamentos, turnês, etc.
 
 
-Para utilizar o Agente Planejador: 
+Para utilizar o Agente AI Planejador: 
 
-Baixe o arquivo notebook do Agente Planejador para Projetos Musicais.ipynb.
+Baixe o arquivo notebook do Agente AI Planejador para Projetos Musicais.ipynb.
 
 Abra o arquivo no Google Colab.
 
@@ -23,7 +23,7 @@ Insira sua API Key do Google AI Studio.
 
 Execute o código.
 
-Insira as informações solicitadas no formulário e clicar em Gerar Plano.
+Insira as informações solicitadas no formulário e clique em Gerar Plano.
 
 Quando o arquivo .DOCX com o plano for gerado, clique no link para baixá-lo.
 
